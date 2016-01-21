@@ -38,6 +38,7 @@ a:hover {
 .input-group-addon {
 	background-color: #eee;
 	color: #374a5d
+	width:;
 }
 
 .panel-success>.panel-heading {
@@ -96,4 +97,7 @@ a:hover {
 
 .hidden {
     display: none;
+}
+.form-control {
+	padding: 2px;
 }
